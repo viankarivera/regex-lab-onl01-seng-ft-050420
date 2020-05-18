@@ -1,6 +1,6 @@
 def starts_with_a_vowel?(word)
   match.each do |word|
-  end 
+  end
 
 end
 
