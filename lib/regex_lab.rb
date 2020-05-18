@@ -1,6 +1,7 @@
 def starts_with_a_vowel?(word)
-  word.match(/^[aeiou]/)
-  end
+  starts_with_a_vowel.each do |word|
+    word.match(/^[aeiou]/)
+  end 
 
 end
 
